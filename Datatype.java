@@ -9,6 +9,5 @@ class Datatype
         System.out.println("Float: "+Float.SIZE/8);
         System.out.println("Double: "+Double.SIZE/8);
         System.out.println("Char: "+Character.SIZE/8);
-        
     }
 }
