@@ -1,4 +1,4 @@
-class Student
+class Student1
 {
     String name="abcd";
     int id=545,marks=99;
@@ -12,7 +12,7 @@ class Clsobj
 {
     public static void main(String args[])
     {
-        Student s1=new Student();
+        Student1 s1=new Student1();
         s1.display();   
     }
 }

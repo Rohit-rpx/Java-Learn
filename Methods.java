@@ -1,4 +1,4 @@
-class Student
+class Student2
 {
     String name="abcd";
     int id=545,marks;
@@ -16,7 +16,7 @@ class Methods
 {
     public static void main(String args[])
     {
-        Student s1=new Student();
+        Student2 s1=new Student2();
         s1.setmarks(98);
         System.out.println("Average is: "+s1.avg());
     }    
